@@ -1,5 +1,5 @@
 # GLRequest
-微信小程序request请求类封装，基于Promise和callback回调两种，可自行修改为uni-app版
+微信小程序request请求类封装，基于Promise和callback回调两种，可自行修改为uni-app版（将utils里面两个文件里的wx换成uni即可）
 
 ## 使用方法
 1、utils文件夹里面的了两个文件拖到项目即可；
